@@ -13,19 +13,23 @@ int main()
     double estatura; /*Valores double*/
     bool like; /*true 1 - false 0*/
 
-    cout << "Ingresa la edad" <<endl<<endl; /*cout te ayuda a imprimir*/
+    cout << "Ingresa la edad" <<endl; /*cout te ayuda a imprimir*/
      cin >> edad; /*cin te ayuda a guardar*/
 
-    cout << "Ingresa la letra" <<endl<<endl;
+cout << " " <<endl;
+    cout << "Ingresa la letra" <<endl;
      cin >> letra;
 
-    cout << "Ingresa el Nombre" <<endl<<endl; 
+cout << " " <<endl;
+    cout << "Ingresa el Nombre" <<endl; 
      cin >> nombre;
 
-    cout << "Ingresa el Peso" <<endl<<endl;
+cout << " " <<endl;
+    cout << "Ingresa el Peso" <<endl;
      cin >> peso;
 
-    cout << "Ingresa la Estatura" <<endl<<endl;
+cout << " " <<endl;
+    cout << "Ingresa la Estatura" <<endl;
      cin >> estatura;
 
     cout <<"" <<endl;
