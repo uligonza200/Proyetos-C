@@ -1,11 +1,13 @@
-#include <iostream>
+/*BY: ENCODE57 Youtube https://www.youtube.com/channel/UCxXWOkY4ope6-kKYBj5kCRQ?view_as=subscriber*/
+#include <iostream> /*libreria para entradas y salidas*/
 
-using namespace std;
+using namespace std; /*usando el espacio de nombres estandar*/
 
+/*Funcion main o principal*/
 int main(){
 
-           cout << "Hola mundo" <<endl;
+           cout << "Hola mundo2" <<endl; /*mensaje hola mundo*/
 
-system("pause"); 
-return 0;    
+system("pause"); /*pausa la pantalla y no se sierra la ventana*/
+return 0;  /*retornamos un 0 porque es una funcion main entera*/
 }
