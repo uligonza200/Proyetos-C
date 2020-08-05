@@ -1,4 +1,6 @@
 /*BY: ENCODE57 Youtube https://www.youtube.com/channel/UCxXWOkY4ope6-kKYBj5kCRQ?view_as=subscriber*/
+/*RECUERDA PARA COMPILAR CANBIAR EL NOMBRE DEL ARCHIVO EN EL task.json*/
+
 /*Top-Down*/
 #include <iostream>
 using namespace std;

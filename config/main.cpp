@@ -1,4 +1,5 @@
 /*BY: ENCODE57 Youtube https://www.youtube.com/channel/UCxXWOkY4ope6-kKYBj5kCRQ?view_as=subscriber*/
+/*RECUERDA PARA COMPILAR CANBIAR EL NOMBRE DEL ARCHIVO EN EL task.json*/
 #include <iostream> /*libreria para entradas y salidas*/
 
 using namespace std; /*usando el espacio de nombres estandar*/
